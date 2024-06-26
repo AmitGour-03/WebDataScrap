@@ -1,0 +1,9 @@
+# In this Web scrapping project we will use Selenium module, which often used in software testing. It is written in Java(base language). Usually it is used for Web scrapping.
+
+# For this project, we will create a virtual environment.
+
+# # check py version.
+# import sys
+# print(sys.version)
+
+venv/
