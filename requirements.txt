@@ -1,2 +1,8 @@
 selenium
 pandas
+bs4    # for collecting all data means till now we have scraped all the html code from the given URL. We can use selenium also instead of this
+os
+
+# Basically it helps us to get the data from the HTML code we scraped from given URL by Parsing
+# We can use BeautifulSoup website and get started
+# Reference of BeautifulSoup: https://beautiful-soup-4.readthedocs.io/en/latest/

@@ -6,4 +6,14 @@
 # import sys
 # print(sys.version)
 
-venv/
+# In this project, we will be using Proxy server. Typically, when a client sends a request to a server then server get its IP(Internet Protocol) address and able to know the client. But if client send numerous request to a website then some website may ban that client. Therefore, Proxy helps client to become ambigous, so that he/she will not ban by a particlar website. 
+# With this client does not send the request directly instead he/she will say to proxy server to send a request to that server and get the request.
+
+# in order to ensure that this will not push in Github so that 
+# Here, I did some settings to use proxy server in local sys, username and password can be find in general section. 2nd method to do this in the webshare page itself by Ip authentication
+# from this my location is also become ambiguous
+# confidential section
+
+venv/ 
+
+proxy_list.txt
